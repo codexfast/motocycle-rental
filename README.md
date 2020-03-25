@@ -5,15 +5,13 @@
 ## Home
 
 + Inicial
-    - Ação logar
+    - Ação logar ou recuperar
     - Ação cadastrar
 - Alugar
 - Contato
 - Sobre
 
-::: warning
-    Só poderá alugar clientes cadastrados
-:::
+> **WARNING**: Só poderá alugar clientes cadastrados
 
 ---
 
@@ -27,9 +25,7 @@
 - Contato
 - Sobre
 
-::: warning
-    O método de pagamento será o mercado pago, permitindo Crédito e Débito
-:::
+> **WARNING**: O método de pagamento será o mercado pago, permitindo Crédito e Débito
 
 ## Dashboard Admin
 + Dashboard
@@ -37,11 +33,12 @@
 + Motocycle
     - Manager
     - Add
++ Clients
+    - Manager
+    - Add
 + Settings
     - Mercado Pago
     - Acesso e Conta
 
-
-    > **WARNING**: Be careful, or else!
 
 

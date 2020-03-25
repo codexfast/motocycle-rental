@@ -27,6 +27,9 @@
 
 > **WARNING**: O método de pagamento será o mercado pago, permitindo Crédito e Débito
 
+---
+
+
 ## Dashboard Admin
 + Dashboard
     - Simple Metric ( Estatistica geral simples )

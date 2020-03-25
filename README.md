@@ -40,6 +40,8 @@
 + Settings
     - Mercado Pago
     - Acesso e Conta
-    
+
+
+    > **WARNING**: Be careful, or else!
 
 

@@ -44,4 +44,7 @@
     - Acesso e Conta
 
 
+# Specs Project
 
+Web app made on PHP
+Laravel + MySql
